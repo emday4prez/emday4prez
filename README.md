@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Emerson 🌱
 
 <!--
 **emday4prez/emday4prez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
