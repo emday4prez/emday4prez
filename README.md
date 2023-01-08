@@ -1,4 +1,4 @@
-### Hi my name is Emerson  🥾 🏄🏻‍♂️ 🏕️
+### Hi my name is Emerson  🥾 🏄🏻‍♂️ 🏕️ ⛰️
 - 🔭 I’m currently working on a full stack web app for ordering food.
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on React and Node.js projects.
