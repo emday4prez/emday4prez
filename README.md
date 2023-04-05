@@ -1,5 +1,5 @@
 ### Hi my name is Emerson  🥾 🏄🏻‍♂️ 🏕️ ⛰️
-- 🔭 I’m currently working on a realtime chat app.
+- 🔭 I’m currently working on a real-time chat app.
 - 🌱 I’m currently mastering websockets and exploring how to build real-time applications with this technology.
 - 👯 I’m looking to collaborate on React and Node.js projects.
 - 📫 How to reach me: emerson.day@gmail.com
