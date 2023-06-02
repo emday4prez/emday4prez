@@ -1,6 +1,6 @@
 ### Hi my name is Emerson  🥾 🏄🏻‍♂️ 🏕️ ⛰️
 - 🔭 Right now, my main project is a real-time chat app.
-- 🌱 I'm currently deepening my understanding of websockets and experimenting with how they can be used to build real-time applications.
+- 🌱 I'm currently deepening my understanding of websockets and how they can be used.
 - 👯 I’m looking to collaborate on React and Node.js projects.
 - 📫 How to reach me: emerson.day@gmail.com
 - 🤔 I’m open to receiving help with any aspect of programming.
