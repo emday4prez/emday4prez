@@ -1,5 +1,5 @@
 ### Hi my name is Emerson  🥾 🏄🏻‍♂️ 🏕️ ⛰️
-- 🔭 Right now, my main project is a real-time chat app.
+- 🔭 Right now, my main project is a social media API.
 - 🌱 I'm currently learning Java.
 - 👯 I’m looking to collaborate on React and Node.js projects.
 - 📫 How to reach me: emerson.day@gmail.com
